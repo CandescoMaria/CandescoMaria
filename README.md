@@ -1,29 +1,29 @@
 # 👩🏻‍💻 Clara Candeani
 
-**`Desenvolvedora Front-End`**
+**`Front-End Developer`**
 
-Podem me chamar de Clara Candeani, tenho 20 anos e faço faculdade de Sistemas de Informação na FMU. Atualmente, trabalho na área de TI e gosto bastante de aprender coisas novas, principalmente quando envolvem tecnologia, tenho interesse em desenvolvimento, especialmente Front-End e UX/UI, e quero continuar adquirindo experiências que me ajudem a crescer profissionalmente. 
+You can call me Clara Candeani! I'm 20 years old and currently studying Information Systems at FMU. I work in the IT field and really enjoy learning new things, especially when it comes to technology. I'm particularly interested in development, especially Front-End and UX/UI Design, and I'm always looking for new experiences and opportunities to grow professionally.
 
 <p align="left">
     <a href="https://github.com/CandescoMaria?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CandescoMaria?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/CandescoMaria?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/CandescoMaria?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CandescoMaria?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/CandescoMaria?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
@@ -145,3 +145,9 @@ align="left"
     width="30px" 
     style="padding-right: 10px;"
 />
+
+<br><br>
+    
+<div align="left">
+<img src="https://streak-stats.demolab.com?user=CandescoMaria&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
